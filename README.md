@@ -12,7 +12,7 @@
 Eu moro em Moçambique, sou amante de tudo que esteja relacionado a Tecnologias de Informação e Comunicação.
 Actualmente estudo o Desenvolvimento Web front-end e o back-end.
 
-Estou sempre disposto a aprender novas coisas, viver novas experiências e aprender o maximo que puder, sou comunicativo, trabalho bem em equipe, sou paciente, calmo e homesto.
+Estou sempre disposto a aprender novas coisas, viver novas experiências e aprender o maximo que puder, sou comunicativo, trabalho bem em equipe, sou paciente e calmo.
 
 </details>
 
